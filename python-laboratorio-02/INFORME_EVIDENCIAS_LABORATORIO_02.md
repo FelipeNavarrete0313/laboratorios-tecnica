@@ -50,7 +50,7 @@ Ejecuté 52 de los 53 archivos del laboratorio con datos de prueba válidos cuan
 | `f5a5d21` - `first commit` | Se creó el README inicial del repositorio. | Se inició el control de versiones. |
 | `f4e5722` - `Add files via upload` | Se subió `python-laboratorio-01`. | El primer laboratorio quedó disponible en el repositorio. |
 | `d194bcc` - actualización de README | Se ajustó la información del README sobre el Laboratorio 1. | Se actualizó la descripción del repositorio. |
-| `f33afc0` - `feat: agregar laboratorio 02` | Se agregó la carpeta `python-laboratorio-02` a esta rama. | Los ejercicios del Laboratorio 2 quedaron versionados sin cachés de Python. |
+| `7cfd147` - `Subida del laboratorio 2` | Se agregó la carpeta `python-laboratorio-02` a esta rama. | Los ejercicios del Laboratorio 2 quedaron versionados sin cachés de Python. |
 
 ## 5. Preguntas de análisis situacional
 
