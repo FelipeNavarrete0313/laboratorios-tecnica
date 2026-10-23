@@ -1,9 +1,12 @@
 # Informe de evidencias - Laboratorio 2
 
-**Aprendiz:** Felipe Andres Navarrete Calderon  
-**Ficha:** 3388087  
-**Repositorio:** [laboratorios-tecnica](https://github.com/FelipeNavarrete0313/laboratorios-tecnica)  
-**Rama de entrega:** `codex/laboratorio-02`  
+**Aprendiz:** Felipe Andres Navarrete Calderon
+
+**Ficha:** 3388087
+
+**Repositorio:** [laboratorios-tecnica](https://github.com/FelipeNavarrete0313/laboratorios-tecnica)
+
+**Rama de entrega:** `codex/laboratorio-02`
 **Estado:** ejercicios verificados; integración del gestor pendiente.
 
 ## 1. Trabajo realizado
