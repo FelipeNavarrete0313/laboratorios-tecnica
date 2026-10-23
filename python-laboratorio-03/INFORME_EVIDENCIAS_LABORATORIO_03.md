@@ -65,7 +65,7 @@ Como mejoras futuras, puedo agregar pruebas automatizadas, una mejor presentaci�
 | `f5a5d21` - `first commit` | Se creó el README inicial. | Se inició el repositorio. |
 | `f4e5722` - `Add files via upload` | Se subió el Laboratorio 1. | El primer laboratorio quedó disponible. |
 | `d194bcc` - actualización de README | Se actualizó la información del Laboratorio 1. | Se mejoró la descripción del repositorio. |
-| `6fd35f9` - `feat: agregar laboratorio 03` | Se agregó la carpeta completa de este laboratorio a esta rama. | El código de funciones, módulos y POO quedó versionado. |
+| `3eefb54` - `Subida del laboratorio 3` | Se agregó la carpeta completa de este laboratorio a esta rama. | El código de funciones, módulos y POO quedó versionado. |
 
 ## 6. Preguntas de análisis situacional
 
