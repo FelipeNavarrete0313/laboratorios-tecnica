@@ -64,7 +64,7 @@ Como siguiente mejora, puedo añadir pruebas automatizadas para la carga de JSON
 | `f5a5d21` - `first commit` | Se creó el README inicial. | Se inició el repositorio. |
 | `f4e5722` - `Add files via upload` | Se subió el Laboratorio 1. | El primer laboratorio quedó disponible. |
 | `d194bcc` - actualización de README | Se actualizó la información del Laboratorio 1. | Se mejoró la descripción principal. |
-| `3e76c08` - `feat: agregar laboratorio 04` | Se agregó la carpeta `python-laboratorio-04` a esta rama. | Quedaron versionados el gestor, las prácticas y la documentación existente. |
+| `ee2a9a8` - `Subida del laboratorio 4` | Se agregó la carpeta `python-laboratorio-04` a esta rama. | Quedaron versionados el gestor, las prácticas y la documentación existente. |
 
 ## 6. Preguntas de análisis situacional
 
